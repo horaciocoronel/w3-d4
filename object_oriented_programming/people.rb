@@ -1,3 +1,10 @@
+class Person
+
+  def name(name)
+    @name = name
+  end
+end
+
 class Student
   def learn
     puts "I get it"
